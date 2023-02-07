@@ -1,0 +1,4 @@
+Stegano API for 102 images: 339.77s = 5min40sec
+My own LSB: 342.19 = 5min42sec
+
+CCL: completely equivalent, but mine is more feature-rich
